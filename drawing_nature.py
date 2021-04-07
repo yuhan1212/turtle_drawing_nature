@@ -1,10 +1,7 @@
 '''
-YuHan Chi
-CS 5001, Spring 2021
-HW 6: Spirals, implement Turtle library in python to create unique design.
-My Design: Nature
-           A blue sky with a sun and few birds,
-           On the ground, there are trees, snails and flowers.
+Implement Turtle library in python to create my design: Nature
+A blue sky with a sun and few birds.
+On the ground, there are trees, snails and flowers.
 '''
 import turtle
 
